@@ -14,7 +14,7 @@ permalink: pretty
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
-#fixed_navbar: top
+fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
 # With GitHub Pages Gem
