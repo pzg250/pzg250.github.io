@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creating A Page
+title: Creating Pages
 subtitle: Pages
 menubar: docs_menu
 toc: true
