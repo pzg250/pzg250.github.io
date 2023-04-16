@@ -3,7 +3,7 @@
 - name: Example Pages
   link: /#
   dropdown:
-    - name: Landing Page with Callouts
+    - name: Landing Page Withs Callouts
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
