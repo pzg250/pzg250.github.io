@@ -1,0 +1,10 @@
+remote-theme: chrisrhymes/bulma-clean-theme
+baseurl: "/githubpages"
+permalink: pretty
+fixed_navbar: top
+layout: page
+show_sidebar: false
+menubar: menu
+#plugins:
+#- github-pages
+
