@@ -7,9 +7,9 @@ toc: true
 show_sidebar: false
 ---
 
-## Creating A Page
+## Creating Pages
 
-Create your pages as individual Markdown files and when the site is built by Jekyll it will process the markdown into html. 
+Create pages as individual Markdown files and when the site is built by Jekyll it will process the markdown into html. 
 
 You can create subdirectories with files in and they will have the subdirectory in their path. For example, this page is in the `docs` subdirectory and is called `creating-a-page.md`. This will become `/docs/creating-a-page.html`, or `/docs/creating-a-page/` depending on your permalink settings.
 
