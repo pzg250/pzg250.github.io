@@ -25,6 +25,8 @@
   items:
     - name: Creating a page
       link: /docs/pages/creating-a-page/
+    - name: Creating pages
+      link: /docs/pages/creating-pages
     - name: Hero
       link: /docs/pages/hero/
     - name: Table of Contents
